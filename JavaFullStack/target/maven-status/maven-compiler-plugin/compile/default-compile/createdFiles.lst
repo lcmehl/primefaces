@@ -1,0 +1,9 @@
+br\com\javafullstack\init\Initializer.class
+br\com\javafullstack\repository\DepartmentRepository.class
+br\com\javafullstack\service\DepartmentServiceImpl.class
+br\com\javafullstack\model\Department.class
+br\com\javafullstack\service\DepartmentService.class
+br\com\javafullstack\init\WebAppConfig.class
+br\com\javafullstack\model\Permission.class
+br\com\javafullstack\model\User.class
+br\com\javafullstack\bean\DepartmentBean.class
